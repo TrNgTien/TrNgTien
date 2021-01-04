@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TrNgTien/TrNgTien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### I'm Tien
 
@@ -13,4 +11,3 @@
 - 📫 How to reach me: [https://www.linkedin.com/in/ng%E1%BB%8Dc-ti%E1%BA%BFn-tr%E1%BA%A7n-b328071bb/]Linkedin
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't have any fun fact :D
--->
