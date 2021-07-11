@@ -12,4 +12,5 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't have any fun fact :D
 
-![dinosaur](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="1000" height="300"/>
+![dinosaur]()
