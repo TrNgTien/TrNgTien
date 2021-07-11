@@ -11,4 +11,4 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tien-tran-b328071bb/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't have any fun fact :D
-(https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+![dinosaur](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
