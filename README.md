@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on React.js, Node.js, Express.js, MySQL, Cloud Firestore, MongoDB
 - 🌱 I’m currently learning  Full-stack web development skills.
-- 👯 I’m looking to collaborate on web projects React.js, Node.js, Express.js, Cloud Firestore, MongoDB
+- 👯 I’m looking to collaborate on web projects which have one of these things: React.js, Node.js, Express.js, Cloud Firestore, MongoDB
 - 🤔 I’m looking for help with Devops
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/trngtien/)
 
