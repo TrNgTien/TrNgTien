@@ -12,7 +12,6 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't have any fun fact :D
 
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="1000" height="300"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TrNgTien&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
