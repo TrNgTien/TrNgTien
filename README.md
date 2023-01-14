@@ -14,5 +14,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=TrNgTien)](https://github.com/anuraghazra/github-readme-stats)
+![TrNgTien's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrNgTien&show_icons=true&theme=transparent)
 
