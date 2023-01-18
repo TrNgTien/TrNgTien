@@ -50,8 +50,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
-
+![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 #### Other Tools:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
