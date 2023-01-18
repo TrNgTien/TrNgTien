@@ -1,10 +1,10 @@
-## Hi there, I'm Tien 👋
+## Hi there, I'm Tien Tran 👋
 
 #### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/trngtien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ngoctien27122001@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/TrNgTien"><img src="https://img.shields.io/badge/github-800080.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/trngtien01/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a style="margin-right: 30px" href="https://www.linkedin.com/in/trngtien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a style="margin-right: 30px" href="mailto:ngoctien27122001@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135" /></a>
+<a style="margin-right: 30px" href="https://github.com/TrNgTien"><img src="https://img.shields.io/badge/github-800080.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
+<a style="margin-right: 30px" href="https://www.facebook.com/trngtien01/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 ## ⚡ My Skillsets:
 
@@ -49,6 +49,7 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-43853D?style=flat-square&logo=Swagger&logoColor=white)
 #### Other Tools:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
@@ -57,7 +58,14 @@
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0079BF?style=flat-square&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-0079BF?style=flat-square&logo=Confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-0079BF?style=flat-square&logo=Postman&logoColor=white&color=orange)
+![Miro](https://img.shields.io/badge/Miro-F7C922?style=flat-square&logo=Miro&logoColor=050036)
+#### Other Languages:
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
+![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=yellow&color=blue)
 
 ## 🔨 My Stats:
 <div>
