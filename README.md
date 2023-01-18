@@ -27,7 +27,7 @@
 ![NestJs](https://img.shields.io/badge/NestJS-07405e.svg?logo=NestJS&logoColor=red&color=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=Flutter&color=white&logoColor=blue)
 ![MUI](https://img.shields.io/badge/-MUI-1572B6?style=flat-square&logo=MUI&color=white)
 
