@@ -62,5 +62,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-0079BF?style=flat-square&logo=Postman&logoColor=white&color=orange)
 
 ## 🔨 My Stats:
-![TrNgTien's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrNgTien&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrNgTien&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=TrNgTien&show_icons=true&theme=transparent"/>
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrNgTien&langs_count=8"/>
+ </div>
