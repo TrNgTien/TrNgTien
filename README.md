@@ -53,6 +53,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-43853D?style=flat-square&logo=Swagger&logoColor=white)
 #### Other Tools:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-43853D?style=flat-square&logo=androidstudio&logoColor=43853D&color=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
