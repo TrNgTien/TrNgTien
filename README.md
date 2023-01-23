@@ -75,6 +75,5 @@
  </div>
  
  
-## My commits
 
 ![snake gif](https://github.com/TrNgTien/TrNgTien/blob/output/github-contribution-grid-snake.gif)
