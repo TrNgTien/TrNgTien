@@ -1,6 +1,6 @@
 ## Hi there, I'm Tien Tran 👋
 
-I'm software engineer, and I would love to create helpful product for users with alots of enthusiasm.
+I'm software engineer, and I would love to create helpful products for users with alots of enthusiasm.
 
 #### 📫 How to reach me:
 <a style="margin-right: 30px" href="https://www.linkedin.com/in/trngtien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
