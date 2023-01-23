@@ -1,5 +1,7 @@
 ## Hi there, I'm Tien Tran 👋
 
+I'm software engineer, and I would love to create helpful product for users with alots of enthusiasm.
+
 #### 📫 How to reach me:
 <a style="margin-right: 30px" href="https://www.linkedin.com/in/trngtien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a style="margin-right: 30px" href="mailto:ngoctien27122001@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135" /></a>
@@ -70,11 +72,9 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=yellow&color=blue)
 
 ## 🔨 My Stats:
-<div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=TrNgTien&show_icons=true&theme=transparent"/>
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrNgTien&langs_count=8"/>
- </div>
- 
- 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TrNgTien&theme=transparent&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=TrNgTien&theme=light&hide_border=true&fire=red&sideNums=red)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TrNgTien&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 ![snake gif](https://github.com/TrNgTien/TrNgTien/blob/output/github-contribution-grid-snake.gif)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TrNgTien&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
