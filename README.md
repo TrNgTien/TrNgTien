@@ -72,5 +72,9 @@
 <div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=TrNgTien&show_icons=true&theme=transparent"/>
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrNgTien&langs_count=8"/>
-  ![snake gif](https://github.com/TrNgTien/TrNgTien/blob/output/github-contribution-grid-snake.gif)
  </div>
+ 
+ 
+## My commits
+
+![snake gif](https://github.com/TrNgTien/TrNgTien/blob/output/github-contribution-grid-snake.gif)
