@@ -1,6 +1,9 @@
-## Hi there, I'm Tien Tran 👋
+## Hi there, I'm Tien Tran 👋 
 
 I'm software engineer, and I would love to create helpful products for users with alots of enthusiasm.
+
+My work hours:
+[![wakatime](https://wakatime.com/badge/user/ceac8d66-9e86-458e-a47f-ca8b2a7a7bc6.svg)](https://wakatime.com/@ceac8d66-9e86-458e-a47f-ca8b2a7a7bc6)
 
 #### 📫 How to reach me:
 <a style="margin-right: 30px" href="https://www.linkedin.com/in/trngtien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
