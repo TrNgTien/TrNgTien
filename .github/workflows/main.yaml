@@ -52,3 +52,11 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Test var
+        run: |
+          echo "repository variable : $TEST_VAR_1"
+          echo "overridden variable ${{ vars.TEST_VAR_1 }}"
+        
+      
+
