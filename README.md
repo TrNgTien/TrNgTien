@@ -30,7 +30,6 @@ My work hours:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-07405e.svg?logo=Next.JS&logoColor=white&color=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
-![NestJs](https://img.shields.io/badge/NestJS-07405e.svg?logo=NestJS&logoColor=red&color=black)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -49,7 +48,6 @@ My work hours:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=00C7B7&color=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=blue&color=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) 
@@ -68,16 +66,9 @@ My work hours:
 ![Confluence](https://img.shields.io/badge/-Confluence-0079BF?style=flat-square&logo=Confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-0079BF?style=flat-square&logo=Postman&logoColor=white&color=orange)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=flat-square&logo=Miro&logoColor=050036)
-#### Other Languages:
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
-![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
-![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=yellow&color=blue)
 
 ## 🔨 My Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TrNgTien&theme=transparent&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=TrNgTien&theme=light&hide_border=true&fire=red&sideNums=red)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TrNgTien&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
-![snake gif](https://github.com/TrNgTien/TrNgTien/blob/output/github-contribution-grid-snake.gif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TrNgTien&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
