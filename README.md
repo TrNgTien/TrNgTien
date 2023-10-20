@@ -11,6 +11,8 @@ My work hours:
 <a style="margin-right: 30px" href="https://github.com/TrNgTien"><img src="https://img.shields.io/badge/github-800080.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
 <a style="margin-right: 30px" href="https://www.facebook.com/trngtien01/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
+### 📖 [My Blog](https://tnt2712.notion.site/87a52627c0c54b0c92298e9d184dfc67?v=85ec639e23a04dd0b5ef14d236b1e554&pvs=4) 📝
+
 ## ⚡ My Skillsets:
 
 #### Cloud Hosting:
