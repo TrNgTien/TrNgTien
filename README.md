@@ -30,9 +30,6 @@ My work hours:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-07405e.svg?logo=Next.JS&logoColor=white&color=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=Flutter&color=white&logoColor=blue)
 ![MUI](https://img.shields.io/badge/-MUI-1572B6?style=flat-square&logo=MUI&color=white)
 
@@ -47,28 +44,10 @@ My work hours:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=00C7B7&color=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=blue&color=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-43853D?style=flat-square&logo=Swagger&logoColor=white)
-#### Other Tools:
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-43853D?style=flat-square&logo=androidstudio&logoColor=43853D&color=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0079BF?style=flat-square&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-0079BF?style=flat-square&logo=Confluence&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-0079BF?style=flat-square&logo=Postman&logoColor=white&color=orange)
-![Miro](https://img.shields.io/badge/Miro-F7C922?style=flat-square&logo=Miro&logoColor=050036)
 
-## 🔨 My Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TrNgTien&theme=transparent&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=TrNgTien&theme=light&hide_border=true&fire=red&sideNums=red)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TrNgTien&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 
