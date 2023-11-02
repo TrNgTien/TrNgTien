@@ -24,11 +24,9 @@ My work hours:
 #### My Development Skills:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-20232A?style=flat-square&logo=dart&logoColor=00C7B7)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-07405e.svg?logo=Next.JS&logoColor=white&color=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=Flutter&color=white&logoColor=blue)
 ![MUI](https://img.shields.io/badge/-MUI-1572B6?style=flat-square&logo=MUI&color=white)
@@ -50,7 +48,7 @@ My work hours:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-524284?style=flat-square&logo=gitlab&logoColor=E3432A)
 ![Swagger](https://img.shields.io/badge/-Swagger-43853D?style=flat-square&logo=Swagger&logoColor=white)
 
 
