@@ -33,6 +33,9 @@ My work hours:
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=Flutter&color=white&logoColor=blue)
 ![MUI](https://img.shields.io/badge/-MUI-1572B6?style=flat-square&logo=MUI&color=white)
 
+#### Bundling tools:
+![Vite](https://img.shields.io/badge/Vite-A454FE?style=flat-square&logo=vite&logoColor=FBCA22)
+
 #### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white&color=blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07405e.svg?logo=PostgreSQL&logoColor=white)
