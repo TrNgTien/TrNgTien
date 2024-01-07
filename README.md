@@ -19,16 +19,13 @@ My work hours:
 #### Containers:
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-14354C?style=flat-square&logo=podman&logoColor=red&color=purple)
 
 #### My Development Skills:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=Flutter&color=white&logoColor=blue)
 ![MUI](https://img.shields.io/badge/-MUI-1572B6?style=flat-square&logo=MUI&color=white)
 
 #### Bundling tools:
@@ -37,7 +34,6 @@ My work hours:
 #### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white&color=blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07405e.svg?logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 #### System Admin Tools, DevOps & OSes
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
@@ -47,8 +43,5 @@ My work hours:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=00C7B7&color=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-524284?style=flat-square&logo=gitlab&logoColor=E3432A)
-![Swagger](https://img.shields.io/badge/-Swagger-43853D?style=flat-square&logo=Swagger&logoColor=white)
 
 
