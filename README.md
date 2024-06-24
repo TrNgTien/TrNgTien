@@ -1,6 +1,6 @@
 ## Hi there, I'm Tien Tran 👋 
 
-I'm software engineer, and I would love to create helpful products for users with alots of enthusiasm.
+Creativity, energetic, and ambition.
 
 My work hours:
 [![wakatime](https://wakatime.com/badge/user/ceac8d66-9e86-458e-a47f-ca8b2a7a7bc6.svg)](https://wakatime.com/@ceac8d66-9e86-458e-a47f-ca8b2a7a7bc6)
