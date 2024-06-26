@@ -1,4 +1,4 @@
-## Hi there, I'm Tien Tran 👋 
+## Hi there, I'm Tien Tran (Theo)  👋 
 
 Creativity, energetic, and ambition.
 
