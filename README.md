@@ -2,9 +2,6 @@
 
 Creativity, energetic, and ambition.
 
-My work hours:
-[![wakatime](https://wakatime.com/badge/user/ceac8d66-9e86-458e-a47f-ca8b2a7a7bc6.svg)](https://wakatime.com/@ceac8d66-9e86-458e-a47f-ca8b2a7a7bc6)
-
 #### 📫 How to reach me:
 <a style="margin-right: 30px" href="https://www.linkedin.com/in/trngtien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a style="margin-right: 30px" href="mailto:ngoctien27122001@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135" /></a>
@@ -23,6 +20,7 @@ My work hours:
 #### My Development Skills:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-6cd8e2?style=flat-square&logo=go&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)
