@@ -6,7 +6,7 @@ Creativity, energetic, and ambition.
 <a style="margin-right: 30px" href="https://www.linkedin.com/in/trngtien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a style="margin-right: 30px" href="mailto:ngoctien27122001@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135" /></a>
 
-### 📖 [My Blog](https://tnt2712.notion.site/Theo-Stories-d7cdd1e8c47a4b8690f462c82f4d3aba?pvs=4) 📝
+### 📖 [Personal Writing](https://tnt2712.notion.site/Theo-Stories-d7cdd1e8c47a4b8690f462c82f4d3aba?pvs=4) 📝
 
 ## ⚡ My Skillsets:
 
